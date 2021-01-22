@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{788646F9-EBC3-4FAB-96C7-8845749BC692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dongoler", "Dongoler\Dongoler.csproj", "{62E59C7B-1231-4B92-B0E3-6CEE230A135A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{80FA3D03-FF70-419C-A45B-44B08AF301F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788646F9-EBC3-4FAB-96C7-8845749BC692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788646F9-EBC3-4FAB-96C7-8845749BC692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788646F9-EBC3-4FAB-96C7-8845749BC692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788646F9-EBC3-4FAB-96C7-8845749BC692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E59C7B-1231-4B92-B0E3-6CEE230A135A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E59C7B-1231-4B92-B0E3-6CEE230A135A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E59C7B-1231-4B92-B0E3-6CEE230A135A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E59C7B-1231-4B92-B0E3-6CEE230A135A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FA3D03-FF70-419C-A45B-44B08AF301F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FA3D03-FF70-419C-A45B-44B08AF301F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FA3D03-FF70-419C-A45B-44B08AF301F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FA3D03-FF70-419C-A45B-44B08AF301F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD84A21B-7DED-48CD-9668-BFC02FEC015A}
+	EndGlobalSection
+EndGlobal
